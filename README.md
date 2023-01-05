@@ -1,12 +1,12 @@
 # ProMaO
 
 ## Overview
-**Contacts**
+### Contacts
 - Patrick.Baczynski@web.de
 - ress@hausverwaltung-polanz.de
 - simon.ress89@googlemail.com
 
-**Development Tools**
+### Development Tools
 - Big Picture: [Miro-Board: Hausverwaltung-App DevOps](https://miro.com/app/board/uXjVORwGl4M=/)
 - Detailed Research / Planing / Architecture : Obsidian-Project (in shared OneDrive folder)
 - Coding
@@ -16,14 +16,15 @@
   - IDE: [RStudio](https://posit.co/)
 - Communication: Whatsapp-group "Hausverwaltung App"
 
-**Architecture**
-- Code-Orga
-  - ui.r+server.r Set-up
-  - 1-Frame-1-Script Rule -> sourcing
-  - Best practice function-definition
-    - list of input/output objects
-    - types of all objects + requirements & verification
-  - ...
+### Architecture
 
-- Packages+Versions
-  - name (version)
+**Code-Orga**
+- ui.r+server.r Set-up
+- 1-Frame-1-Script Rule + sourcing
+- Best practice function-definition
+  - list of input/output objects
+  - types of all objects + requirements & verification
+- ...
+
+**Packages+Versions**
+ - name (version)
