@@ -12,8 +12,8 @@
 - Coding
   - Coding/Testing Planing: [GitHub-Project: ProMaO](https://github.com/users/SimonRess/projects/3)
   - Versioning Code: GIT + [Github-Repo: ProMaO](https://github.com/SimonRess/ProMaO)
-  - Language: R
-  - IDE: RStudio
+  - Language: [R 4.2.2](https://cran.r-project.org/bin/windows/base/old/) ([R-Changelog](https://cran.r-project.org/doc/manuals/r-devel/NEWS.html))
+  - IDE: [RStudio](https://posit.co/)
 - Communication: Whatsapp-group "Hausverwaltung App"
 
 **Architecture**
@@ -25,3 +25,5 @@
     - types of all objects + requirements & verification
   - ...
 
+- Packages+Versions
+  - name (version)
