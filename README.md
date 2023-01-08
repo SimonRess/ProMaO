@@ -28,3 +28,19 @@
 
 **Packages+Versions**
  - name (version)
+
+
+### Learning
+**R Basics**
+- [R Programming](https://app.datacamp.com/learn/skill-tracks/r-programming)
+- [Data Manipulation with R](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-r)
+- [Data Visualization with R](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-r)
+- [Defensive R Programming](https://app.datacamp.com/learn/courses/defensive-r-programming)
+**Functions**
+- [Intermediate Tidyverse Toolbox](https://app.datacamp.com/learn/skill-tracks/intermediate-tidyverse-toolbox) *(both "... Functional Programming with purrr")*
+**Strings**
+-[String Manipulation with stringr in R](https://app.datacamp.com/learn/courses/string-manipulation-with-stringr-in-r)
+**Dates+Times**
+-[Working with Dates and Times in R](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r)
+*Shiny**
+- [Shiny Fundamentals with R](https://app.datacamp.com/learn/skill-tracks/shiny-fundamentals-with-r)
