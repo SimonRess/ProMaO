@@ -44,3 +44,9 @@
 -[Working with Dates and Times in R](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r)
 *Shiny**
 - [Shiny Fundamentals with R](https://app.datacamp.com/learn/skill-tracks/shiny-fundamentals-with-r)
+- [CRAN - Shiny](https://cran.r-project.org/web/packages/shiny/index.html)
+- [Ref.-Manual - Shiny](https://cran.r-project.org/web/packages/shiny/shiny.pdf)
+- Shiny Extensions
+  - [GitHub - Shiny Extensions](https://github.com/nanxstats/awesome-shiny-extensions)
+  - [R Bloggers - Shiny Extensions](https://www.r-bloggers.com/2017/07/the-r-shiny-packages-you-need-for-your-web-apps/)
+  - [GitHUb - shiny.semantic (UI with a fresh, modern and highly interactive look -> Wrapper around Fomantic UI)](https://github.com/Appsilon/shiny.semantic)
